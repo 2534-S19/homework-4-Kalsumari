@@ -2,7 +2,7 @@
  * homework4.h
  *
  *  Created on:
- *      Author:
+ *      Author: Khalid Alsumari
  */
 
 #ifndef HOMEWORK4_H_
@@ -13,6 +13,6 @@ void initBoard();
 bool charFSM(char rChar);
 
 // TODO: Define any constants that are local to homework.c using #define
-
+#define NOT_AVAILABLE   0xFF
 
 #endif /* HOMEWORK4_H_ */
